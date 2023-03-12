@@ -3,7 +3,7 @@ User enters list of scores. Use of FOR loop to capture highest score and print t
 
 ## High Score in List ##
 
-![High Score](<https://github.com/Ongoing-Knowledge-Scraping/Treasure-Map-X/blob/main/Treasure-Map-X.gif> "Running the code")
+![High Score](<https://github.com/Ongoing-Knowledge-Scraping/High-Score-in-List/blob/main/High-Score-in-List.gif> "Running the code")
 
 ## View on Replit ##
 
